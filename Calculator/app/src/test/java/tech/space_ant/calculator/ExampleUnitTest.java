@@ -1,4 +1,4 @@
-package ict.su.ac.th.apichart.calculator;
+package tech.space_ant.calculator;
 
 import org.junit.Test;
 

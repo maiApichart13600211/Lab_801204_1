@@ -1,4 +1,4 @@
-package ict.su.ac.th.apichart.calculator;
+package tech.space_ant.calculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ict.su.ac.th.apichart.calculator", appContext.getPackageName());
+        assertEquals("tech.space_ant.calculator", appContext.getPackageName());
     }
 }
